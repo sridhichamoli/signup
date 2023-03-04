@@ -11,7 +11,7 @@ body{
   justify-content: center;
   align-items: center;
   padding: 10px;
-  background: linear-gradient(135deg, #f5f5dc, #008000);
+  background: linear-gradient(135deg, #f5f5dc, #f5f5dc);
 }
 .container{
   max-width: 700px;
@@ -114,11 +114,11 @@ form .input-box span.details{
    letter-spacing: 1px;
    cursor: pointer;
    transition: all 0.3s ease;
-   background: linear-gradient(135deg, #f5f5dc, #008000);
+   background: linear-gradient(135deg, #f5f5dc,#82ee82);
  }
  form .button input:hover{
   /* transform: scale(0.99); */
-  background: linear-gradient(-135deg, #e78c41, #c7ca14);
+  background: linear-gradient(-135deg,#C8A2C8,#b687dd );
   }
  @media(max-width: 584px){
  .container{
